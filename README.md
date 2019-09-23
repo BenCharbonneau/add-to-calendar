@@ -1,6 +1,6 @@
 # Add to Calendar Link Generator
 
-A JS and PHP library that lets you add "add to calendar" links to your website or emails.
+A JS and PHP library that lets you add "add to calendar" links to your website or emails. This code was written for [RocketBlocks](https://rocketblocks.me) who generously let me open source it.
 
 ## What it does
 
