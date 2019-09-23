@@ -1,15 +1,15 @@
-#Add to Calendar Link Generator
+# Add to Calendar Link Generator
 
 A JS and PHP library that lets you add "add to calendar" links to your website or emails.
 
-##What it does
+## What it does
 
-##Dependencies
+## Dependencies
 [Bootstrap 4](https://getbootstrap.com/docs/4.2)
 [jQuery](https://jquery.com)
 [PHP](https://www.php.net)
 
-##How to use it
+## How to use it
 Download the repo and add the addToCal directory to your site.
 
 There are two main entry points to the code:
@@ -79,13 +79,15 @@ generateCalendars in the CalLinks class -
 		echo json_encode($calendarLinks->generateCalendars());
 	}
 
-#Example calendar button
+# Example calendar button
+
 You can take a look at example.html to see the add calendar JS in action.
 
-#Example code for creating email links (PHP)
+# Example code for creating email links (PHP)
+
 You can take a look at exampleEmail.php to see example code for using the calendar links in an email.
 
-##License
+## License
 
 [MIT](http://opensource.org/licenses/MIT)
 
