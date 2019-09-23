@@ -8,7 +8,7 @@ class CalLinks{
     protected $duration; //Duration of event in minutes
     protected $address; //Location of event
     protected $url; //URL for relevant website page
-    protected $calDir; //Directory where the add to calendar functionality is kept (Should have the full host name included. [e.g. http://localhost/addToCal])
+    protected $calDir; //Directory where the add to calendar functionality is kept (Should have the full host name included. [e.g. http://localhost:8888/addToCal])
 
     public function __construct($title='',$description='',$address='',$url='',$from,$to,$duration,$calDir){
         //initiate the calendar links object

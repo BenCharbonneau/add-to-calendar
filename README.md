@@ -4,7 +4,9 @@ A JS and PHP library that lets you add "add to calendar" links to your website o
 
 ## Dependencies
 [Bootstrap 4](https://getbootstrap.com/docs/4.2)
+
 [jQuery](https://jquery.com)
+
 [PHP](https://www.php.net)
 
 ## How to use it
@@ -79,7 +81,7 @@ generateCalendars in the CalLinks class -
 
 # Example calendar button
 
-You can take a look at example.html to see the add calendar JS in action.
+You can take a look at [example.html](https://bencharbonneau.github.io/add-to-calendar/example.html) to see the add calendar JS in action.
 
 # Example code for creating email links (PHP)
 

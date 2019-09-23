@@ -21,7 +21,7 @@ $duration = 60;
 
 $location = 'Skype Call';
 
-$calDir = 'http://localhost:8888/addToCal';
+$calDir = 'https://bencharbonneau.github.io/add-to-calendar/addToCal';
 
 //Use the CalLinks class to generate the calendar links
 $calendarLinks = new CalLinks($title, $description, $location, NULL, $dateString->getTimestamp(), NULL, $duration, $calDir);
